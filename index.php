@@ -8,7 +8,7 @@ $query=mysqli_query($conn , "select * from student")or die(mysqli_error($conn));
 
 <html>
 <head>
-<title>Student</title>
+<title>School</title>
 <link href="vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
 <link href="css/font-face.css" rel="stylesheet" media="all">
     <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
